@@ -19,7 +19,7 @@ A modern, feature-rich autoclicker built with Python and Tkinter.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/autoclicker-pro.git
+git clone https://github.com/Zihaff4/auto-clicker-pro.git
 cd autoclicker-pro
 ```
 
@@ -58,5 +58,6 @@ This project is licensed under the MIT License.
 Contributions, issues, and feature requests are welcome!
 
 ## ⭐ Show your support
+
 
 Give a ⭐️ if this project helped you!
